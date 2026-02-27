@@ -51,9 +51,13 @@ Raw spreadsheets make these insights difficult to extract efficiently.
 ## • Goal of the Dashboard
 To design a centralized, interactive reporting solution that:
 • Tracks total profit and total tax performance
+
 • Compares yearly sales trends (2003–2005)
+
 • Analyzes country-wise revenue contribution
+
 • Evaluates product-level profitability
+
 • Identifies high-performing cities by sales count
 
 ## • Walkthrough of Key Visuals
