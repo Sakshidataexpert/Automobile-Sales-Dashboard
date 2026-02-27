@@ -10,10 +10,15 @@ This dashboard is ideal for sales managers, business analysts, and decision-make
 The dashboard was built using the following tools and technologies:
 
 • 📊 Microsoft Excel – Core platform for dashboard development
+
 • 📈 Pivot Tables & Pivot Charts – For dynamic aggregation and summarization
+
 • 🎛 Slicers – Interactive filtering by Year, Country, City, and Product
+
 • 🧮 Advanced Excel Formulas – Used for KPI calculations (Total Profit, Total Tax)
+
 • 🎨 Dashboard Design & Formatting – Custom layout, KPI cards, and consistent theme styling
+
 • 📁 File Format – .xlsx
 
 ## Data Source
@@ -78,12 +83,15 @@ Users can filter the entire dashboard by:
 All visuals dynamically update based on selections.
 
 ## Business Impact & Insights
-• 📊 Microsoft Excel – Core platform for dashboard development
-• 📈 Pivot Tables & Pivot Charts – For dynamic aggregation and summarization
-• 🎛 Slicers – Interactive filtering by Year, Country, City, and Product
-• 🧮 Advanced Excel Formulas – Used for KPI calculations (Total Profit, Total Tax)
-• 🎨 Dashboard Design & Formatting – Custom layout, KPI cards, and consistent theme styling
-• 📁 File Format – .xlsx
+• Performance Monitoring – Enables quick identification of top-performing countries and cities.
+
+• Product Strategy Optimization – Highlights which product categories generate the highest profitability.
+
+• Trend Analysis – Helps detect growth or decline across years.
+
+• Tax Impact Evaluation – Assists in understanding the relationship between revenue and tax deductions.
+
+• Decision Support Tool – Provides leadership with a centralized analytical view for strategic planning.
 
 ## Screenshots / Demo
 Below is the snapshot of the dashboard:
