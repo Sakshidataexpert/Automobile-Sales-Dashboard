@@ -86,6 +86,5 @@ All visuals dynamically update based on selections.
 
 ## Screenshots / Demo
 Below is the snapshot of the dashboard:
-https://github.com/Sakshidataexpert/Automobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
-
+Snapshot of the Dashboard.png
 
