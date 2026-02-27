@@ -9,8 +9,7 @@ This dashboard is ideal for sales managers, business analysts, and decision-make
 ## Tech Stack
 The dashboard was built using the following tools and technologies:
 
-• 📊 Microsoft Excel – Core platform for dashboard development
-• 📈 Pivot Tables & Pivot Charts – For dynamic aggregation and summarization
+• 📊 Microsoft Excel – Core platform for dashboard development                                                                                                     • 📈 Pivot Tables & Pivot Charts – For dynamic aggregation and summarization
 • 🎛 Slicers – Interactive filtering by Year, Country, City, and Product
 • 🧮 Advanced Excel Formulas – Used for KPI calculations (Total Profit, Total Tax)
 • 🎨 Dashboard Design & Formatting – Custom layout, KPI cards, and consistent theme styling
@@ -86,5 +85,5 @@ All visuals dynamically update based on selections.
 
 ## Screenshots / Demo
 Below is the snapshot of the dashboard:
-Snapshot of the Dashboard.png
+[Snapshot of the Dashboard.png](https://github.com/Sakshidataexpert/Automobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
