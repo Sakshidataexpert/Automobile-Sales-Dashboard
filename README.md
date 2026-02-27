@@ -1,7 +1,7 @@
 # Automobile-Sales-Dashboard
 An interactive and dynamic Excel-based business intelligence dashboard designed to analyze multi-year automobile sales performance across countries, cities, and product categories. The dashboard provides actionable insights into revenue, profit, taxation, and product-level performance to support strategic decision-making.
 
-## hort Description / Purpose
+## Short Description / Purpose
 The Automobile Sales Dashboard is a data-driven Excel solution built to monitor and evaluate automobile sales performance from 2003–2005. It enables users to analyze revenue trends, profit margins, tax distribution, geographic sales performance, and product-level profitability through interactive filters and visualizations.
 
 This dashboard is ideal for sales managers, business analysts, and decision-makers who need quick insights into regional sales trends and product performance.
